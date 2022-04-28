@@ -1,0 +1,31 @@
+{
+  "name": "jjp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjp778/jjp-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjp778/jjp-test/issues"
+  },
+  "homepage": "https://github.com/jjp778/jjp-test#readme",
+  "dependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/jest": "^27.4.1",
+    "babel-jest": "^28.0.1",
+    "jest": "^28.0.1"
+  },
+  "devDependencies": {
+    "vitest": "^0.10.0"
+  }
+}
